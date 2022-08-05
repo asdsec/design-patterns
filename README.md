@@ -1,2 +1,7 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Several examples of design patters
+
+## Strategy Pattern:
+
+<img src="./doc/strategy-pattern/strategy-pattern.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
